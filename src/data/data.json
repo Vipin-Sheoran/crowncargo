@@ -1,0 +1,137 @@
+{
+    "Header": {
+
+        "title": "Fast Track Packers & Movers",
+        "paragraph": "Welcome to Fast Track Packers Movers in Gurugram"
+
+    },
+    "About": {
+        "paragraph": "Fast Track Packers & Movers is a trusted name in the movers and packers industry, we offers packing and moving solutions, goods transportation services, goods relocation services and custom clearance services. With a comprehensive understanding of the industry, our reallocation service experts put their job in perspective, and offer tips to increase productivity and decrease stress. We seamlessly endeavor to provide pro active and easy solutions to our clients that meet the individual's requirements accurately. ",
+        "Why": [
+            "delivery with safety and care",
+            "On time delivery",
+            "Affordable costs",
+            "24*7 available"
+        ],
+        "Why2": [
+            "Good packing facility ",
+            "Good labelling facility",
+            "Equal priority to every client",
+            "Skilled team"
+            
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-truck",
+            "name": "PACKERS AND MOVERS SERVICES",
+            "text": "We provide you packing and moving complete service from gurugram to all over india.We assure you a safe and hustle free relocation experience."
+        },
+        {
+            "icon": "fa fa-home",
+            "name": "HOUSEHOLD SHIFTING SERVICES",
+            "text": "We have a dedicated and expert team which compltely takes care of your Household Shifting Services.We offer you the best Packing services at cheaper rates."
+        },
+        {
+            "icon": "fa fa-building",
+            "name": "WAREHOUSING SERVICES",
+            "text": "Sometimes Your goods need to be stored for some reasons.Along with packing and moving we offer you the service of storing your goods at proper storage"
+        },
+        {
+            "icon": "fa fa-briefcase",
+            "name": "OFFICE SHIFTING SERVICES",
+            "text": "No need to worry if you are a working person and want to shift your office.Our team will make sure that your office goods should be shifted without much lose of your valuable time."
+        },
+        {
+            "icon": "fa fa-arrow-up",
+            "name": "LOADING SERVICES",
+            "text": "We understand your emotions attached with the goods.So, with proper care and utmost security we provide you the goods loading services at very low prices."
+        },
+        {
+            "icon": "fa fa-arrow-down",
+            "name": "UNLOADING SERVICES",
+            "text": "We are highly appreciated for proper safety and care taken for unloading services, our services are done with extreme care to avoid risk of damages."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+91 8646918888 ,+91 8646928888",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+        "icon": "fa fa-phone",
+        "title": "Step 1",
+        "text": "Book Us"
+    },
+        {
+            "icon": "fa fa-shopping-cart",
+            "title": "Step 2",
+            "text": "We Pack your Household Articles"
+        },
+        {
+            "icon": "fa fa-truck",
+            "title": "Step 3",
+            "text": "We Move your Household Articles"
+        },
+        {
+            "icon": "fa fa-check-square-o",
+            "title": "Step 4",
+            "text": "We Deliver"
+        }
+    ]
+}
