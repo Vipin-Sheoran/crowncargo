@@ -69,7 +69,7 @@ export class Gallery extends Component {
                         {/* <h4>Lorem Ipsum</h4> */}
                       </div>
                       <img
-                        src="img/portfolio/MP2n.jpg"
+                        src="img/portfolio/MP2N.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
