@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fasttrack/static/css/main.3b60e7ae.chunk.css",
-    "main.js": "/fasttrack/static/js/main.c966ee2d.chunk.js",
-    "main.js.map": "/fasttrack/static/js/main.c966ee2d.chunk.js.map",
+    "main.js": "/fasttrack/static/js/main.e720a99a.chunk.js",
+    "main.js.map": "/fasttrack/static/js/main.e720a99a.chunk.js.map",
     "runtime-main.js": "/fasttrack/static/js/runtime-main.94db7d8f.js",
     "runtime-main.js.map": "/fasttrack/static/js/runtime-main.94db7d8f.js.map",
     "static/js/2.783a5fe4.chunk.js": "/fasttrack/static/js/2.783a5fe4.chunk.js",
     "static/js/2.783a5fe4.chunk.js.map": "/fasttrack/static/js/2.783a5fe4.chunk.js.map",
     "index.html": "/fasttrack/index.html",
-    "precache-manifest.9da8a979a1281dbd808d2ee6c2e1b364.js": "/fasttrack/precache-manifest.9da8a979a1281dbd808d2ee6c2e1b364.js",
+    "precache-manifest.66143e0954780b768647589e1b3fc403.js": "/fasttrack/precache-manifest.66143e0954780b768647589e1b3fc403.js",
     "service-worker.js": "/fasttrack/service-worker.js",
     "static/css/main.3b60e7ae.chunk.css.map": "/fasttrack/static/css/main.3b60e7ae.chunk.css.map",
     "static/js/2.783a5fe4.chunk.js.LICENSE.txt": "/fasttrack/static/js/2.783a5fe4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.94db7d8f.js",
     "static/js/2.783a5fe4.chunk.js",
     "static/css/main.3b60e7ae.chunk.css",
-    "static/js/main.c966ee2d.chunk.js"
+    "static/js/main.e720a99a.chunk.js"
   ]
 }
