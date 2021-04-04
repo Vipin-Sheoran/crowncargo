@@ -74,7 +74,7 @@ hr {
 	transition: all 0.8s;
 }
 #menu.navbar-default {
-	background-color: #fff;
+	background-color: greenyellow;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
@@ -125,6 +125,7 @@ hr {
 }
 .navbar-toggle {
 	border-radius: 0;
+	background-color: #fff;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 	background-color: #fff;
@@ -211,7 +212,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 span {
 	font-weight: 800;
-	color: #5ca9fb;
+	color: #5caefb;
 }
 .intro p {
 	color: #fff;
@@ -246,6 +247,7 @@ header .intro-text {
 /* About Section */
 #about {
 	padding: 100px 0;
+	background-color: rgb(197, 197, 149);
 }
 #about h3 {
 	font-size: 22px;
@@ -259,7 +261,7 @@ header .intro-text {
 #about h2::after {
 	position: absolute;
 	content: "";
-	background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+	background: linear-gradient(to right, #d1fb5c 0%, #d5ff63 100%);
 	height: 4px;
 	width: 60px;
 	bottom: 0;
@@ -293,7 +295,7 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: linear-gradient(to right, #07105f 0%, #5ca9fb 100%);
 	color: #fff;
 }
 #services .service-desc {
@@ -438,7 +440,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
 	padding: 100px 0 60px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	background: linear-gradient(to right, #07105f 0%, #5ca9fb 100%);
 	color: rgba(255,255,255,.75);
 }
 #contact .section-title {
