@@ -1123,7 +1123,9 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  transition:all  0.5s;
 }
+
 .img-rounded {
   border-radius: 6px;
 }
